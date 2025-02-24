@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "bc1q3lv3x9x7rqzxjsup9kumgq97sg0zjqfnqdsmv6",
-	"pass": "c=BTC",
+	"user": "zs1sgwj7fzqu2xy7kdglcvknnsq692f25mrkupkrpzwcv9g4ae7qfvljn56rnvpxtdn0ks4qcnpzwz",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
