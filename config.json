@@ -12,7 +12,7 @@
 	}
 	],
 	"user": "RRao3j3a9FNgQvsZ9sSAuVfquDc5ugNmEv.Oliver",
-	"algo": "verushash",
+	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
