@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://de.vipor.net:5077",
+        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
@@ -12,7 +12,7 @@
 	}
 	],
 	"user": "RRao3j3a9FNgQvsZ9sSAuVfquDc5ugNmEv.Oliver",
-	"algo": "verus",
+	"algo": "verushash",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
