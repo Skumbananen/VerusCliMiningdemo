@@ -2,16 +2,22 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
+        	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://fi.vipor.net:5077",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"timeout": 150
+	},
+	{
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://na.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
 	"user": "RRao3j3a9FNgQvsZ9sSAuVfquDc5ugNmEv.Oliver",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
