@@ -9,7 +9,7 @@
 		"name": "LuckPoolFailover1",
         	"url": "stratum+tcp://fi.vipor.net:5077",
 		"timeout": 150
-	{
+	{,
 		]
 	"user": "RRao3j3a9FNgQvsZ9sSAuVfquDc5ugNmEv.Oliver",
 	"pass": "x",
